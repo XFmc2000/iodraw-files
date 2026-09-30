@@ -126,6 +126,55 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-27" value="生长素 (Auxin / IAA)&#xa;&lt;b&gt;【信号核心】&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1413" width="225" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-28" value="ZmPILS4&#xa;&lt;b&gt;【内质网转运蛋白】&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1230" width="235" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-29" value="ZmIAA41&#xa;&lt;b&gt;【转录阻遏蛋白】&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="81" y="1560" width="257" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-30" value="ZmIBR5&#xa;&lt;b&gt;【双特异性磷酸酶】&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="346" y="1404" width="235" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-31" value="下游生长素响应与根系建成&#xa;&lt;b&gt;【发育输出】&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="197" y="1699" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-32" value="内质网隔离 (负调控有效浓度)" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-28" target="WtGamA-51pk2K8EivdUy-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-33" value="诱导蛋白泛素化降解" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-27" target="WtGamA-51pk2K8EivdUy-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="137" y="1524" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-34" value="抑制转录" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.28;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-29" target="WtGamA-51pk2K8EivdUy-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="209" y="1662" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-35" value="脱磷酸化微调 (维持信号敏感性)" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.58;exitY=0.99;entryX=0.83;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-30" target="WtGamA-51pk2K8EivdUy-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="498" y="1524" />
+              <mxPoint x="498" y="1662" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-36" value="协同促进周转" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.76;entryY=0;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-30" target="WtGamA-51pk2K8EivdUy-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="349" y="1524" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
