@@ -1,0 +1,132 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="1LTQl6HijmKpWVw6z8jX">
+    <mxGraphModel dx="1106" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WtGamA-51pk2K8EivdUy-1" value="【发育生理响应 (Developmental Output)】" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="97" y="969" width="313" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-2" value="【细胞核调控 (Nucleus)】" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="184" width="608" height="713" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-3" value="【胞质与内质网 (Cytosol &amp; ER)】" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="648" y="20" width="548" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-4" value="游离生长素&#xa;(Cytosolic Free IAA)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="691" y="209" width="201" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-5" value="ZmPILS4&#xa;(内质网生长素转运蛋白)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="811" y="45" width="232" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-6" value="内质网腔隔离储存&#xa;(Auxin Sequestration)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="942" y="209" width="215" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-7" value="SCF-TIR1/AFB&#xa;(生长素受体复合体)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="381" y="372" width="200" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-8" value="ZmIAA41&#xa;(Aux/IAA 核心转录阻遏蛋白)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="271" y="511" width="194" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-9" value="26S 蛋白酶体&#xa;(Proteasome Degradation)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="346" y="667" width="247" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-10" value="ARFs&#xa;(生长素响应转录因子)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="145" y="806" width="216" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-11" value="ZmIBR5&#xa;(双特异性蛋白磷酸酶)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="76" y="209" width="216" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-12" value="MAPK 激酶级联&#xa;(ZmMPK12-like)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="98" y="372" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-13" value="生长素早期响应基因群&#xa;(Auxin-Responsive Genes)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="132" y="994" width="243" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-14" value="玉米根系表型输出&#xa;1. 初生根伸长&#xa;2. 木质部导管形成&#xa;3. 侧根发生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="159" y="1133" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-15" value="介导IAA区室化储存" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-5" target="WtGamA-51pk2K8EivdUy-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1049" y="147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-16" value="缓冲与下调胞质游离浓度" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-5" target="WtGamA-51pk2K8EivdUy-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="791" y="147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-17" value="结合并激活受体" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-4" target="WtGamA-51pk2K8EivdUy-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="791" y="300" />
+              <mxPoint x="481" y="336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-18" value="泛素化标记降解" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.81;entryY=0;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-7" target="WtGamA-51pk2K8EivdUy-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="481" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-19" value="靶向降解" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-8" target="WtGamA-51pk2K8EivdUy-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="631" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-20" value="结合并抑制活性" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-8" target="WtGamA-51pk2K8EivdUy-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="631" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-21" value="去磷酸化去活化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-11" target="WtGamA-51pk2K8EivdUy-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-22" value="调控信号敏感性与周转" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.67;exitY=1;entryX=0.16;entryY=0;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-12" target="WtGamA-51pk2K8EivdUy-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="243" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-23" value="微调转录活性" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.34;exitY=1;entryX=0.22;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-12" target="WtGamA-51pk2K8EivdUy-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="126" y="475" />
+              <mxPoint x="126" y="769" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-24" value="激活转录" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-10" target="WtGamA-51pk2K8EivdUy-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-25" value="驱动发育过程" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-13" target="WtGamA-51pk2K8EivdUy-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtGamA-51pk2K8EivdUy-26" value="解除抑制" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.98;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WtGamA-51pk2K8EivdUy-9" target="WtGamA-51pk2K8EivdUy-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="769" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
