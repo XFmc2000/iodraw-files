@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pc05" value="PC05" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;whiteSpace=wrap;fillColor=#EAF2FF;strokeColor=#2563EB;fontColor=#1E3A8A;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;fontSize=10;spacingTop=3;" parent="1" vertex="1">
-          <mxGeometry x="795" y="505" width="35" height="27" as="geometry" />
+          <mxGeometry x="770" y="550" width="35" height="27" as="geometry" />
         </mxCell>
         <mxCell id="sw4" value="交换机-4&#xa;10.25.110.0/24" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;whiteSpace=wrap;fillColor=#DCEBFF;strokeColor=#2563EB;fontColor=#1E40AF;verticalLabelPosition=bottom;verticalAlign=top;fontSize=10;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="680" y="730" width="35" height="27" as="geometry" />
@@ -230,11 +230,11 @@
         </mxCell>
         <mxCell id="id34" value="en0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5798E5;strokeWidth=1.8;endArrow=none;fontColor=#0F3D6B;fontSize=9;labelBackgroundColor=#FFFFFF;labelBorderColor=none;jumpStyle=arc;jumpSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="730" as="sourcePoint" />
-            <mxPoint x="815.5" y="815" as="targetPoint" />
+            <mxPoint x="919.75" y="702.5" as="sourcePoint" />
+            <mxPoint x="1035.25" y="787.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="700.5" y="690" />
-              <mxPoint x="815.5" y="690" />
+              <mxPoint x="920.25" y="662.5" />
+              <mxPoint x="1035.25" y="662.5" />
             </Array>
           </mxGeometry>
         </mxCell>
