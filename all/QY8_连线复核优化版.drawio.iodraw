@@ -103,6 +103,11 @@
         <mxCell id="dc" value="域控" style="shape=mxgraph.cisco.servers.server;html=1;whiteSpace=wrap;fillColor=#E8F7EE;strokeColor=#169B62;fontColor=#14532D;verticalLabelPosition=bottom;verticalAlign=top;fontSize=10;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="795" y="630" width="35" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="KJ5Bs2V9QjhqDfUMjBxE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mantis">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mantis" value="mantisBT" style="shape=mxgraph.cisco.servers.server;html=1;whiteSpace=wrap;fillColor=#E8F7EE;strokeColor=#169B62;fontColor=#14532D;verticalLabelPosition=bottom;verticalAlign=top;fontSize=10;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="795" y="725" width="35" height="27" as="geometry" />
         </mxCell>
@@ -222,11 +227,11 @@
         </mxCell>
         <mxCell id="id34" value="en0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5798E5;strokeWidth=1.8;endArrow=none;fontColor=#0F3D6B;fontSize=9;labelBackgroundColor=#FFFFFF;labelBorderColor=none;jumpStyle=arc;jumpSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="740" as="sourcePoint" />
-            <mxPoint x="815.5" y="825" as="targetPoint" />
+            <mxPoint x="700" y="730" as="sourcePoint" />
+            <mxPoint x="815.5" y="815" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="700.5" y="700" />
-              <mxPoint x="815.5" y="700" />
+              <mxPoint x="700.5" y="690" />
+              <mxPoint x="815.5" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
