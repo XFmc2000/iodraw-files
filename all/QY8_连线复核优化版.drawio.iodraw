@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mantis" value="mantisBT" style="shape=mxgraph.cisco.servers.server;html=1;whiteSpace=wrap;fillColor=#E8F7EE;strokeColor=#169B62;fontColor=#14532D;verticalLabelPosition=bottom;verticalAlign=top;fontSize=10;spacingTop=3;" parent="1" vertex="1">
-          <mxGeometry x="795" y="725" width="35" height="27" as="geometry" />
+          <mxGeometry x="920" y="880" width="35" height="27" as="geometry" />
         </mxCell>
         <mxCell id="tryton" value="tryton" style="shape=mxgraph.cisco.servers.server;html=1;whiteSpace=wrap;fillColor=#E8F7EE;strokeColor=#169B62;fontColor=#14532D;verticalLabelPosition=bottom;verticalAlign=top;fontSize=10;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="795" y="815" width="35" height="27" as="geometry" />
