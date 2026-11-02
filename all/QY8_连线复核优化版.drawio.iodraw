@@ -89,10 +89,13 @@
           <mxGeometry x="680" y="410" width="35" height="27" as="geometry" />
         </mxCell>
         <mxCell id="pc03" value="PC03" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;whiteSpace=wrap;fillColor=#EAF2FF;strokeColor=#2563EB;fontColor=#1E3A8A;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;fontSize=10;spacingTop=3;" parent="1" vertex="1">
-          <mxGeometry x="795" y="325" width="35" height="27" as="geometry" />
+          <mxGeometry x="830" y="273" width="35" height="27" as="geometry" />
         </mxCell>
         <mxCell id="pc04" value="PC04" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;whiteSpace=wrap;fillColor=#EAF2FF;strokeColor=#2563EB;fontColor=#1E3A8A;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;fontSize=10;spacingTop=3;" parent="1" vertex="1">
-          <mxGeometry x="795" y="415" width="35" height="27" as="geometry" />
+          <mxGeometry x="960" y="357" width="35" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ5Bs2V9QjhqDfUMjBxE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pc05" target="id6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pc05" value="PC05" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;whiteSpace=wrap;fillColor=#EAF2FF;strokeColor=#2563EB;fontColor=#1E3A8A;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;fontSize=10;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="795" y="505" width="35" height="27" as="geometry" />
