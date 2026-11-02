@@ -220,8 +220,15 @@
         <mxCell id="id33" value="en0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5798E5;strokeWidth=1.8;endArrow=none;fontColor=#0F3D6B;fontSize=9;labelBackgroundColor=#FFFFFF;labelBorderColor=none;jumpStyle=arc;jumpSize=8;" parent="1" source="sw4" target="mantis" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="id34" value="en0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5798E5;strokeWidth=1.8;endArrow=none;fontColor=#0F3D6B;fontSize=9;labelBackgroundColor=#FFFFFF;labelBorderColor=none;jumpStyle=arc;jumpSize=8;" parent="1" source="sw4" target="tryton" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="id34" value="en0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#5798E5;strokeWidth=1.8;endArrow=none;fontColor=#0F3D6B;fontSize=9;labelBackgroundColor=#FFFFFF;labelBorderColor=none;jumpStyle=arc;jumpSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="770" as="sourcePoint" />
+            <mxPoint x="725.5" y="855" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610.5" y="730" />
+              <mxPoint x="725.5" y="730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
